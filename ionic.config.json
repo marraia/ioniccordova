@@ -1,7 +1,8 @@
 {
   "name": "ionic-how-to-create-cordova-plugin",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }

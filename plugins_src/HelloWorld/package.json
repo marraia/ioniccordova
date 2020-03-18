@@ -1,0 +1,17 @@
+{
+  "name": "HelloWorld",
+  "version": "0.0.1",
+  "description": "HelloWorld",
+  "cordova": {
+    "id": "cordovapluginhelloworld",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Fernando Mendes",
+  "license": "ISC"
+}
